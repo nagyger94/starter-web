@@ -1,1 +1,3 @@
 ignoreMePls.txt
+*.log
+log/
