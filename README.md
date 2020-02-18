@@ -7,7 +7,9 @@ This repository is for showing how Git and GitHub work 2
 GIt repo stuff
 
 ## Purpose
+purpose stuff
 
 ## Deployment
+deployment stuff
 
 ## How to contribute
