@@ -13,3 +13,7 @@ purpose stuff
 deployment stuff
 
 ## How to contribute
+
+### Copyright
+
+2014 Git.Training
